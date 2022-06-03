@@ -1,4 +1,4 @@
-# ceretai
+# Movie Displayer
 
 ## Project setup
 ```
